@@ -22,14 +22,14 @@ title: Apuntes de IAW
 author: Hugo Colio
 email: hcolios01@educantabria.es
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog de prácticas del módulo Implantación de Aplicaciones Web: servidores web, contenedores y despliegue.
-lang: es
-timerzone: Europe/Madrid
+Blog de prácticas del módulo Implantación de Aplicaciones Web: servidores web, contenedores y despliegue.
+
 baseurl: "/miblog" # the subpath of your site, e.g. /blog
 url: "https://hugocolio.github.io/miblog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: huco53
 github_username:  HugoColio
-
+lang: es
+timerzone: Europe/Madrid
 # Build settings
 theme: minima
 plugins:
