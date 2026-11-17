@@ -28,7 +28,7 @@ url: "https://hugocolio.github.io/miblog/" # the base hostname & protocol for yo
 twitter_username: huco53
 github_username:  HugoColio
 lang: es
-timerzone: Europe/Madrid
+timezone: Europe/Madrid
 # Build settings
 theme: minima
 plugins:
